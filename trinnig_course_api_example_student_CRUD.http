@@ -1,0 +1,6 @@
+@trinnig_course_api_example_student_CRUD_HostAddress = http://localhost:5018
+
+GET {{trinnig_course_api_example_student_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
